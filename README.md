@@ -1,7 +1,9 @@
 # FDIC-Bank-Closures
 
-#### Dataset: [FDIC: Failed Bank List](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/index.html)
+Dataset: [FDIC: Failed Bank List](https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/index.html)
 
+Tool: Tableau 
+_______
 ### Highlights:
 * From October 1, 2000, there has been 569 banks that have failed and reported by the FDIC. The last update of the data was April 26, 2024.
 * Georgia is the highest with 93 bank closures. Hawaii, Massachusetts, New Hampshire, South Dakota, and Wyoming all have 1 bank closure each.
